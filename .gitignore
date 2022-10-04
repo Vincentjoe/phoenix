@@ -4,7 +4,7 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 *.properties
-
+.mvn
 ### STS ###
 .apt_generated
 .classpath
